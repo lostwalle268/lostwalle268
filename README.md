@@ -16,4 +16,4 @@
 Soon...
 
 <h3>My code stats:</h3>
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lostwalle268&theme=nord&show_icons=true)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lostwalle268&show_icons=true&theme=dark#gh-dark-mode-only)]
