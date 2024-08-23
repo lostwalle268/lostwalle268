@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**lostwalle268/lostwalle268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying on Universidad del Norte
+- 🌱 I’m currently learning about System engineering and Computer science.
+- 💬 Ask me about anything I know, I am a opened book.
+- 📫 How to reach me: Mail me at: **lostwalle268@hotmail.com**
+- ⚡ Fun fact: I love learning a little about everything, I am a faithful believer that knowledge is power.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/santiago-fernandez-carrascal-847b69249"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/santiagoferc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itstorrober" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+Soon...
+
+<h3>My code stats:</h3>
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lostwalle268&theme=nord&show_icons=true)
