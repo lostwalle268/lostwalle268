@@ -16,4 +16,4 @@
 Soon...
 
 <h3>My code stats:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostwalle268)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lostwalle268)
