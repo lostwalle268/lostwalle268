@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 -  I'm a Computer Science student at Universidad del Norte
--  Backend Developer
+-  Fullstack Developer
 -  I want to learn about Defensive Cybersecurity
 -  Mail me at: **lostwalle268@hotmail.com**
 -  I love learning a little about everything, I am a faithful believer that knowledge is power.
